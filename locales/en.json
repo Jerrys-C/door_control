@@ -1,0 +1,12 @@
+{
+    "input_title": "Door Lockdown",
+    "all_doors": "All Doors",
+    "selected_doors": "Selected Doors",
+    "locked": "Locked",
+    "unlocked": "Unlocked",
+    "action": "Action",
+    "lock": "Lock",
+    "unlock": "Unlock",
+    "lockdown_notification_title": "The doors have been locked down",
+    "unlock_notification_title": "The doors have been unlocked"
+}

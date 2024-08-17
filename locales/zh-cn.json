@@ -1,0 +1,12 @@
+{
+    "input_title": "门锁管理",
+    "all_doors": "所有门",
+    "selected_doors": "选择门",
+    "locked": "已锁定",
+    "unlocked": "已解锁",
+    "action": "操作",
+    "lock": "锁定",
+    "unlock": "解锁",
+    "lockdown_notification_title": "门已被锁定",
+    "unlock_notification_title": "门已被解锁"
+}
